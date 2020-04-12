@@ -1260,21 +1260,23 @@ h1, h2, h3, h4, h5,
   .unit-4 *:last-child {
     margin-bottom: 0; }
   .unit-4:hover {
-    background: #32d2d7;
-    -webkit-box-shadow: 0 4px 20px -5px rgba(50,210,215,0.4);
-    box-shadow: 0 4px 20px -5px rgba(50,210,215,0.4);
+    background: white;
+    -webkit-box-shadow: 0 4px 20px -5px grey;
+    box-shadow: 0 4px 20px -5px grey;
     top: -7px; }
-    .unit-4:hover .icon-wrap {
+
+    /* commented out to prevent background color change. Uncomment if you want colour change on hover. */
+    /* .unit-4:hover .icon-wrap {
       background-color: #fff; }
       .unit-4:hover .icon-wrap span {
-        color: #32d2d7 !important; }
-    .unit-4:hover h3 {
+        color: #32d2d7 !important; } */
+    /* .unit-4:hover h3 {
       color: #fff; }
     .unit-4:hover p {
       font-weight: 300;
       color: rgba(255, 255, 255, 0.7); }
       .unit-4:hover p a {
-        color: #fff; }
+        color: #fff; } */
 
 .h-entry img {
   margin-bottom: 30px; }
