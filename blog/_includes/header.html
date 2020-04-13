@@ -1,0 +1,9 @@
+<header class="site-header">
+
+    <div class="wrapper">
+      {%- assign default_paths = site.pages | map: "path" -%}
+      {%- assign page_paths = site.header_pages | default: default_paths -%}
+      {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+      <h1 class="site-logo"><span class="text-primary">humans.</span><a href="https://fightingcovid.net/" class="text-black">fightingcovid</a><span class="text-primary">.</span></h1>
+    </div>
+  </header>
