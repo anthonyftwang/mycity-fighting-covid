@@ -1,5 +1,5 @@
 # mycity-fighting-covid
-To help support local responses to COVID-19, we're open-sourcing code for a modular website design that you can adapt as you see fit for your local response. We are also assembling a collection of local response sites from around the world. Here are detailed instructions for anyone looking to create a website for your city.
+To help support local responses to COVID-19, we're sharing code for a modular website design that you can adapt as you see fit for your local response. We are also assembling a collection of local response sites from around the world. Here are detailed instructions for anyone looking to create a website for your city.
 
 ### Before you start:
 
@@ -13,7 +13,7 @@ Our goal is simply to reduce the time it takes to get a working site up and runn
 1. Clone this repository to your computer. (In a terminal window, `git clone https://github.com/anthonyftwang/mycity-fighting-covid.git`)
 2. Ideally, simply editing `index.html` to update links, text, and images should be sufficient for most and shouldn't take more than a few minutes. Change "mycity" to the name of your city/town/community, and add an appropriate header photo.
    1. Since the design is modular, you can delete sections you don't need or add new ones.
-   2. (Optional - create/connect to a blog like WordPress, Jekyll, etc!
+   2. (Optional - create/connect to a blog like WordPress, Jekyll, etc!)
 
 ### Hosting the site with GitHub Pages:
 
