@@ -1,5 +1,5 @@
 # mycity-fighting-covid
-To help support local responses to COVID-19, we're sharing code for a modular website design that you can adapt as you see fit for your local response. We are also assembling a collection of local response sites from around the world. Here are detailed instructions for anyone looking to create a website for your city.
+To help support local responses to COVID-19, we're sharing code for a modular website design that you can adapt as you see fit for your local response. We are also assembling a collection of local response sites from around the world. Here are detailed instructions for anyone looking to create a website for their city.
 
 ### Before you start:
 
