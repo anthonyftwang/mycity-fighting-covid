@@ -1909,7 +1909,7 @@ h1, h2, h3, h4, h5,
 @media screen and (max-width:415px) {
   div.cover-height {
     flex: auto !important;
-    margin-top: -70px;
+    margin-top: -75px;
   }
 }
 
