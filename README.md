@@ -31,6 +31,6 @@ Our goal is simply to reduce the time it takes to get a working site up and runn
 
 ### Adding your site to earth.fightingcovid.net
 
-Once your site is up, contact us at [opensource@fightingcovid.net](mailto:opensource@fightingcovid.net), and we'd be happy to add yours to [earth.fightingcovid.net](https://earth.fightingcovid.net). This lets visitors from around the world learn from each others' responses and will inspire even more people to join in their local efforts!
+Once your site is up, contact us at [opensource@fightingcovid.net](mailto:opensource@fightingcovid.net) with your link, and we'd be happy to add it to [earth.fightingcovid.net](https://earth.fightingcovid.net). This lets visitors from around the world learn from each others' responses and will inspire even more people to join in their local efforts!
 
 Additionally, if your site is live at `https://username.github.io/repository-name/` and you'd prefer a more relevant URL (or even just the latter), just let us know and we will help you get it working with something like `[mycity].fightingcovid.net`.
