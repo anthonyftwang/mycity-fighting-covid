@@ -1898,7 +1898,7 @@ h1, h2, h3, h4, h5,
   }
 }
 
-
+/* 
 @media screen and (min-width:992px) {
   div.cover-height {
     flex: auto !important;
@@ -1911,7 +1911,7 @@ h1, h2, h3, h4, h5,
     flex: auto !important;
     margin-top: 150px;
   }
-}
+} */
 
 
 
@@ -1922,11 +1922,19 @@ h1, h2, h3, h4, h5,
   }
 }
 
+@media screen and (max-width:415px) {
+  h2.mobile-text {
+    font-size: 20px !important;
+  }
+}
 
-.height-fix {
+
+
+
+/* .height-fix {
   height: 0 !important;
   width: auto !important;
-}
+} */
 
 
 
