@@ -1906,6 +1906,15 @@ h1, h2, h3, h4, h5,
   }
 }
 
+@media screen and (min-width:1300px) {
+  div.cover-height {
+    flex: auto !important;
+    margin-top: 100px;
+  }
+}
+
+
+
 @media screen and (max-width:415px) {
   div.cover-height {
     flex: auto !important;
