@@ -1845,3 +1845,41 @@ h1, h2, h3, h4, h5,
   flex-wrap: wrap;
   justify-content: center;
 }
+
+@media only screen and (max-width: 768px) {
+  img#underconstruction {width: 100%; height: 100%; margin: 0; padding: 0 !important;}
+}
+
+
+
+.photo-pad {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+
+/* used to change the size of the title when screen gets smaller */
+@media screen and (max-width: 450px) {
+  div.mycity-size *{
+    font-size: 27px !important;
+    width: 300px !important;
+    padding-top: 10px;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  div.mycity-size *{
+    font-size: 25px !important;
+    width: 300px !important;
+    padding-top: 10px;
+  }
+}
+
+
+
+.menu-sizing {
+  flex: auto;
+  padding-right: 15px;
+  padding-top: 7px;
+}
+
