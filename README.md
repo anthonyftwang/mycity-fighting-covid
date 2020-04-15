@@ -11,7 +11,7 @@ To help support local responses to COVID-19, we're sharing code for a modular we
 Our goal is simply to reduce the time it takes to get a working site up and running, so we are recommending modifying our template and hosting the site via GitHub pages for the shortest & smoothest out-the-door workflow while still allowing for minor to major customizations. That said, you're more than welcome to use whatever you'd like to build and host your site. If so, you can skip to the next section if you want to host via GitHub pages, or to the very last section if you just want us to add you to the collection.
 
 1. Clone this repository to your computer. (In a terminal window, `git clone https://github.com/anthonyftwang/mycity-fighting-covid.git`)
-2. Ideally, simply editing `index.html` to update links, text, and images should be sufficient for most and shouldn't take more than a few minutes. Change "mycity" to the name of your city/town/community, and add an appropriate header photo.
+2. Ideally, simply editing `index.html` to update links, text, and images should be sufficient for most and shouldn't take more than a few minutes. Change "mycity" to the name of your city/town/community, and add an appropriate header photo. You can also link to an "About" page, or legal information as needed by region.
    1. Since the design is modular, you can delete sections you don't need or add new ones.
    2. (Optional - create/connect to a blog like WordPress, Jekyll, etc!)
 
