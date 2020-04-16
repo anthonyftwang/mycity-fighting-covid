@@ -2,13 +2,17 @@
 <html lang="en">
 
 <head>
+  <!-- Change your website title! -->
   <title>[My City] Fighting COVID</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-
+  <!-- Load a font from Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
   <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+  <!-- Theme stuff. Change basic themeing in css/style.css-->
+  <!-- The default red color is #d54d32, dark #9d3520 -->
 
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/jquery-ui.css">
@@ -41,6 +45,8 @@
       <div class="site-mobile-menu-body"></div>
     </div>
 
+    <!-- You can set the text in the header logo here - once for large window layouts... -->
+
     <div class="container d-none d-lg-block">
       <div class="row">
         <div class="col-12 text-center mb-4 mt-5 ">
@@ -55,6 +61,8 @@
       <div class="container">
         <div class="row align-items-center">
 
+          <!-- ...and again for small window/mobile layouts. -->
+
           <div class="col-10 col-sm-6 col-md-6 col-xl-2  d-block d-lg-none mycity-size">
             <h1 class="mb-0 site-logo"><span class="text-primary h2 mb-0">mycity.</span><a href="index.html"
                 class="text-black h2 mb-0">fightingcovid<span class="text-primary">.</span> </a></h1>
@@ -64,7 +72,7 @@
               class="site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a>
           </div>
 
-
+          <!-- Change the urls and text labels of the main menu links -->
 
           <div class="max-width-nav">
             <nav class="site-navigation position-relative" role="navigation">
@@ -72,6 +80,7 @@
               <ul class="menu-padding site-menu main-menu js-clone-nav d-none d-lg-block text-center">
                 <li><a href="#home-section" class="nav-link"><b>Home</b></a></li>
                 <li><a href="#can-do" class="nav-link"><b>How To Help</b></a></li>
+                <li><a href="#background-section" class="nav-link"><b>Background</b></a></li>
                 <li><a href="#statistics-section" class="nav-link"><b>Local Info</b></a></li>
                 <li><a href="#links-section" class="nav-link"><b>Links</b></a></li>
                 <!-- (Optional): add a blog! Link up to a Wordpress Jekyll, etc. site -->
@@ -95,6 +104,8 @@
           <div class="col-md-12 photo-pad img-fix" style="position: absolute;" data-aos="fade-up" >
             <div class="row mb-4 photo-pad">
 
+              <!-- Write a tagline for your site here. -->
+
               <div class="col-lg-12">
                 <h2 class="tagline tagline-sm mobile-text"
                   style="color:#FFFFFF; text-align:center; padding-top:30%; padding-left:5%; padding-right:5%">
@@ -107,7 +118,8 @@
       </div>
     </div>
 
-
+    <!-- This section has a grid of "Action Items"! Update titles, descriptions, and links as neeeded. -->
+    <!-- You can also remove unused items, or add more! -->
 
     <div class="site-section bg-light" id="can-do">
       <div class="container">
@@ -116,9 +128,8 @@
             <h2 class="section-title mb-3">How you can help!</h2>
           </div>
         </div>
-        <!--class="row align-items-stretch" original class, added new class to center boxes with flexbox-->
-        <div class="row box-center">
 
+        <div class="row box-center">
 
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
             <div class="unit-4 d-block">
@@ -202,11 +213,26 @@
       </div>
     </div>
 
-    <div class="feature-big" id="statistics-section">
+    <!-- A background section where you can give your readers some context.-->
+
+    <div class="feature-big">
       <div class="container">
+        <div class="row mb-5 site-section border-bottom" id="background-section">
+          <div class="col-lg-7">
+            <img src="images/doctor.jpg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-lg-5 pl-lg-5 ml-auto mt-md-5">
+            <h2 class="text-black">Background</h2>
+            <p class="mb-4"><b>Provide some context to your visitors: for example, what local challenges are you
+              facing? How is your situation similar to or different from that of others? How can people best help?
+            </b></p>
+          </div>
+        </div>
 
-        <div class="mt-5 row mb-5 site-section">
+        <!-- If your community is in the US, this widget might be really useful! -->
+        <!-- You can configure stats to display by state, or by county. -->
 
+        <div class="mt-5 row mb-5 site-section" id="statistics-section">
 
           <!-- You must keep the class if copy pasting new code.
                 Change the state code to the one you want
@@ -226,12 +252,11 @@
             </p>
           </div>
         </div>
-
-
-
+        
       </div>
     </div>
 
+    <!-- Compile a list of useful links and resources for your community -->
 
     <div class="bg-light site-section" id="links-section">
       <div class="container">
@@ -271,6 +296,10 @@
       </div>
 
     </div>
+
+    <!-- The footer at the bottom of the page. -->
+    <!-- Add social media links, make an "About Us" page, or add a legal disclaimer if you need to. -->
+    <!-- ...or remove any of these if you don't need it! -->
 
     <div class="footer py-5 border-top text-center">
       <div class="container">
