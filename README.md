@@ -1,6 +1,8 @@
 # mycity-fighting-covid
 To help support local responses to COVID-19, we're sharing code for a modular website design that you can adapt as you see fit for your local response. We are also assembling a collection of local response sites from around the world. Here are detailed instructions for anyone looking to create a website for their city.
 
+![screenshot](/images/screenshot.png)
+
 ### Before you start:
 
 1. Determine what the needs are in your location. Every place is facing different challenges. Join up with your community response efforts and find out how you can make your site most useful, whether it's coordinating donations, distributing volunteer applications, or documenting ongoing efforts for others to learn from.
